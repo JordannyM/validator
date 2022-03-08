@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c3f0dc-6fd6-4c89-88ba-ac2b6be2b31e" name="Changes" comment="">
+    <list default="true" id="74c3f0dc-6fd6-4c89-88ba-ac2b6be2b31e" name="Changes" comment="Validador de senha">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/aula04/banco/banco/dto/RequestCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aula04/banco/banco/dto/RequestCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aula04/banco/banco/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aula04/banco/banco/service/ClienteService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +65,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646692942829</updated>
-      <workItem from="1646692944497" duration="670000" />
+      <workItem from="1646692944497" duration="6193000" />
     </task>
+    <task id="LOCAL-00001" summary="Validador de senha">
+      <created>1646693824999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646693825000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Validador de senha">
+      <created>1646693904864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646693904864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Validador de senha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validador de senha" />
   </component>
 </project>
